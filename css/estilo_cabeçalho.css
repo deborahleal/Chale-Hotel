@@ -35,7 +35,8 @@
 	position: absolute;
 	top:0;
 	right:0;
-	z-index: 2;
+	z-index: 2; /*pra ele ficar encima do 1, ma so primeiro 
+				aparece antes*/
 }
 
 #conteudo-menu{
@@ -68,6 +69,45 @@ a.link-cabeçalho {
 #reseva-locais .locais {
 	float: left;
 	line-height: 2.1em;
+
+}
+
+
+
+/*CONFIGURAÇÃO DA BARRA DE MENU VERTICAL */
+#menu{
+	
+	padding-top: 15px;
+
+}
+
+ul{
+	
+	list-style: none;
+}
+
+ul#navegação{
+	float: left;
+}
+
+ul#navegação a{
+	text-transform: uppercase;
+	font-size: 0.9em;
+	padding: 5px;
+	color: #6e672c;
+	line-height:30px; /*colocar espaçamento entre as palavras */
+}
+
+ul#navegação a:hover{
+	background: #F5F5DC;
+	display: inline;
+	cursor: pointer;
+}
+
+.depoimento{
+	width: 226px;
+	height: 164px;
+	float: right;
 
 }
 

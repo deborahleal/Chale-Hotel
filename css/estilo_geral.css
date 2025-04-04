@@ -18,3 +18,9 @@ body{
 	min-width: 740px; /*uma largura fixa para não cobrir todo logo*/
 	max-width: 1180px;
 }
+
+
+#rodape{
+	font-size: 0.8em;
+	color:#D2B48C ;
+}
