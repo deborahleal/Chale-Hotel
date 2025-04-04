@@ -1,4 +1,4 @@
-# 🏨 Página Inicial - Site de Hotel
+# 🏨 Página Inicial - Chalé Hotel
 
 Este projeto é a construção da **página inicial de um site de hotel**, desenvolvida com foco em **layout fluido** e design responsivo, garantindo uma ótima experiência em diferentes dispositivos — de desktops a smartphones.
 
